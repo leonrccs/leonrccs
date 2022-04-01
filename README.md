@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leonrccs
 - I’m interested in computational fluid and solid mechanics, machine learning, and data-driven modelling
-- Currently finishing my master's degree at Technical Uniersity Munich
-- How to reach me: leon.riccius@tum.de
+- PhD Candidate at TU Delft
+- How to reach me: l.f.riccius@tudelft.nl
 
 <!---
 leonrccs/leonrccs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
